@@ -16,8 +16,8 @@
 
 ## TO-DO
 
-- [x]  [EC2 생성 및 ElasticIP 설정](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [k8s 환경 구성](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
+- [x]  [EC2 생성 및 ElasticIP 설정](1.md)
+- [x]  [k8s 환경 구성](2.md)
 - [x]  [Jenkins 컨테이너 실행 및 빌드 환경 세팅](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
 - [x]  [Argo CD컨테이너 실행 및 Item 설정](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
 - [x]  [gitea 컨테이너 실행 및 repo 설정](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
