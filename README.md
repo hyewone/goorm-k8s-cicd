@@ -18,14 +18,14 @@
 
 - [x]  [EC2 생성 및 ElasticIP 설정](1.md)
 - [x]  [k8s 환경 구성](2.md)
-- [x]  [Jenkins 컨테이너 실행 및 빌드 환경 세팅](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [Argo CD컨테이너 실행 및 Item 설정](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [gitea 컨테이너 실행 및 repo 설정](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [gitea repo 생성](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [도커 레포지토리 생성 및 Dockerfile 작성](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [Jenkins Pipeline 작성](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [Jenkins Pipeline 테스트](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
-- [x]  [WebHook 설정](https://www.notion.so/AWS-k8s-CI-CD-8e13f99bcf054db2a8c8c6b337a98542?pvs=21)
+- [x]  [Jenkins 컨테이너 실행 및 빌드 환경 세팅](3.md)
+- [x]  [Argo CD컨테이너 실행 및 Item 설정](4.md)
+- [x]  [gitea 컨테이너 실행 및 repo 설정](5.md)
+- [x]  [gitea repo 생성](6.md)
+- [x]  [도커 레포지토리 생성 및 Dockerfile 작성](7.md)
+- [x]  [Jenkins Pipeline 작성](8.md)
+- [x]  [Jenkins Pipeline 테스트](9.md)
+- [x]  [WebHook 설정](10.md)
 
 
 <br/>
